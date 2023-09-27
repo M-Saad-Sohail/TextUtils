@@ -1,3 +1,7 @@
+GITHUB PAGES HOESTED LINK 
+
+https://m-saad-sohail.github.io/TextUtils/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
